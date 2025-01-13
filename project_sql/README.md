@@ -125,9 +125,6 @@ Skill Trends:
 The presence of cloud computing platforms **(AWS, GCP, Azure)** highlights the importance of cloud skills in data analysis roles.
 **Machine learning frameworks (PyTorch, TensorFlow, scikit-learn)** show a significant demand for expertise in AI/ML.
 
-![top_paying_skills](assets/top_skills_graph.jpg)
-
-
 ### 3. In-Demand skills for Data Analysts 
 
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
@@ -157,7 +154,7 @@ Here's is the breakdown of the most demanded skills for data analysis in 2023
 
 
 
-| Skills     | Demand Count |
+| Skills     | Demand_Count |
 |------------|---------------|
 | SQL        | 7291          |
 | Excel      | 4611          |
@@ -166,7 +163,7 @@ Here's is the breakdown of the most demanded skills for data analysis in 2023
 | Power BI   | 2609          |
 
 
-*table of the demand for the top 5 skills in data analysis job postings*
+**table of the demand for the top 5 skills in data analysis job postings**
 
 ### 4. Skills based on salary
 
